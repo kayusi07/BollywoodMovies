@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bollywood Movies</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-5152778234781012/7559326446</string>
+    <string name="interstitial_full_screen">ca-app-pub-5152778234781012/4741591414</string>
+
 </resources>
