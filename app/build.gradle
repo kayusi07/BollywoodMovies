@@ -10,8 +10,8 @@ android {
         applicationId "bollywoodmovies.kayushi07.com.bollywoodmovies"
         minSdkVersion 15
         targetSdkVersion 26
-        versionCode 3
-        versionName "1.2"
+        versionCode 4
+        versionName "2.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
